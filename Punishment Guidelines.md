@@ -200,3 +200,11 @@ Punishment: 7 hours
 **Punishment**: Immediate ban
 
 **Note**: When this happens, please disable invites.
+
+---
+
+### Impersonation
+
+**Criteria**: This is only possible when User has exactly same user as the current Staff member, like PinkyVanes, nnnepiskproto and you get the drill.
+
+**Punishment**: Warn first, If they don't change it in 1 day. Immediate ban
