@@ -149,6 +149,14 @@ Punishment: 7 hours
 
 ---
 
+### Wrong channel usage
+
+**Criteria**: Using commands in the wrong channel, that's all.
+
+**Punishment**: 1 hour mute
+
+---
+
 # Bans
 
 ---
