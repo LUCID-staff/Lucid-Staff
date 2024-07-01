@@ -133,6 +133,22 @@ Punishment: 7 hours
 
 ---
 
+### Pinging High Staff
+
+**Criteria**: When User is pinging High staff members like Administrator, Co-Leader and Leader.
+
+**Punishmsnt**: 1 hour - 3 hours (Depends how many times they pinged)
+
+---
+
+### Ghost Pinging Staff
+
+**Criteria**: When User pings ANY staff member then deletes the message, you'll need modded discord client for this... sadly.
+
+**Punishment**: 2 hours - 5 hours (Depends how many times they ghost pinged)
+
+---
+
 # Bans
 
 ---
