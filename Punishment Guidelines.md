@@ -153,6 +153,14 @@ Punishment: 7 hours
 
 ---
 
+### Pedophilia
+
+**Criteria**: I don't think I have to explain this....
+
+**Punishment**: Immediate ban
+
+---
+
 ### DM Advertising
 
 **Criteria**: This occurs when a user sends a server Discord link via direct message.
