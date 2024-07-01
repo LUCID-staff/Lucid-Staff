@@ -208,3 +208,11 @@ Punishment: 7 hours
 **Criteria**: This is only possible when User has exactly same user as the current Staff member, like PinkyVanes, nnnepiskproto and you get the drill.
 
 **Punishment**: Warn first, If they don't change it in 1 day. Immediate ban
+
+---
+
+### Scamming
+
+**Criteria**: User attempts, tries or even convinces other User to scam them with Dank memer or something like that...
+
+**Punishment**: Warn first, If they keep doing it. Immediate ban
