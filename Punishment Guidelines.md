@@ -5,6 +5,12 @@ Do not share this document to non-staff, you’ll be warned for staff leakage or
 
 # Mutes
 
+### Unfollowing the Language rule
+
+**Criteria**: This might happen with the User talking any other language apart from English.
+
+**Punishment**: Warn first, If they keep doing it... **1 hour - 1 day** (Depended how many sentences in different language they said.)
+
 ### Spamming
 
 **Criteria**: This applies when a user spams the same message (not sentence) 3 or more times within 1 minute. It also counts if their message is repeated in different sentences.
