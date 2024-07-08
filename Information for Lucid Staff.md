@@ -10,7 +10,7 @@ In here, you'll find Information which might be useful for your position as a St
 
 ### Greeting
 
-**Example**: Hello, @user! What can i help you with?
+**Example**: Hello, @User! What can i help you with?
 
 ### Clan requests
 
@@ -40,10 +40,10 @@ In here, you'll find Information which might be useful for your position as a St
 
 If staff member has been warned multiple times till they reached their limit, they'll be demoted off of the Lucid Staff Team.
 
-Trial-Moderator - **3/3**
-Moderator - **4/4**
-Senior-Moderator - **5/5**
-Adminstrator - **7/7**
+Trial-Moderator - **2/2**
+Moderator - **3/3**
+Senior-Moderator - **4/4**
+Adminstrator - **6/6**
 
 ---
 
@@ -51,9 +51,11 @@ Adminstrator - **7/7**
 
 - If staff member violates the rule
 - Behaves Negative/Unprofessional
-- Not active
+- Inactive for 5 days
 - If you falsely done punishment on a user.
 - Got hacked...? Lmao how can you be hacked as a Staff Member.
+- Not paying the winner of giveaway, as If you were the host.
+- Deleting messages from Important channels.
 
 ---
 
