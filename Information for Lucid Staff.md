@@ -40,10 +40,10 @@ In here, you'll find Information which might be useful for your position as a St
 
 If staff member has been warned multiple times till they reached their limit, they'll be demoted off of the Lucid Staff Team.
 
-Trial-Moderator - **2/2**
-Moderator - **3/3**
-Senior-Moderator - **4/4**
-Adminstrator - **6/6**
+- Trial-Moderator - **2/2**
+- Moderator - **3/3**
+- Senior-Moderator - **4/4**
+- Adminstrator - **6/6**
 
 ---
 
