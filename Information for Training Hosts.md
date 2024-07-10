@@ -4,6 +4,14 @@ In here, you'll find things like... Warn system, what to do as a Training host a
 
 ---
 
+# Introduction
+
+### Introduce yourself to the players.
+
+**Well, as a Training Host... you can perhaps Introduce yourself to the Players so they can know a lot about you and probably learn something from you when they want to become future Training Host? Who knows.**
+
+---
+
 # Supervisor
 
 ### You'll have to get anyone whose Trial-Moderator or above to become your Supervisor, If you do something which breaks the Training Host guidelines. You'll be given an Warn.
@@ -29,3 +37,10 @@ In here, you'll find things like... Warn system, what to do as a Training host a
 - Exploiting
 - Abusing Admin powers in the Training against players
 - Negative/Unprofessional Behaviour.
+
+---
+
+# Promotion
+
+There are no promotions for Training Hosts... atleast not yet.
+
