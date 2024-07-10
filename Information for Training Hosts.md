@@ -19,3 +19,13 @@ In here, you'll find things like... Warn system, what to do as a Training host a
 
 # Warn System
 
+### You might be asking... what can I be **specifically** warned for?
+
+- False Punishments
+- No Supervisor
+- Inactive for 5 days
+- Hosting the Training but not even attending to it (As a host.)
+- Breaking rules
+- Exploiting
+- Abusing Admin powers in the Training against players
+- Negative/Unprofessional Behaviour.
