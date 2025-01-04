@@ -49,7 +49,7 @@ Punishment: 7 hours
 
 **Criteria**: This includes targeting people based on their color, religion, ethnicity, or beliefs.
 
-**Example**: "YOU BLACK N-"
+**Example**: "YOU BLACK NIGGA"
 
 **Punishment**: 4 hours - 15 days (Depending on the severity of the offense)
 
