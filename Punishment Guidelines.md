@@ -92,7 +92,10 @@ Punishment: 7 hours
 
 **Criteria**: This includes trash-talking, negative comments, and other methods of disrespect towards staff members.
 
-**Example**: "You're the shittiest staff this server could have."
+**Example**: 
+- "You're the shittiest staff this server could have."
+- "Did you hear about that staff? He's so terrible at this job lmao."
+- "That staff is so retarded, he didn't even mute that guy."
 
 **Punishment**: 1 hour - 7 days
 
