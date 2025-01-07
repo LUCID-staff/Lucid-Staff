@@ -44,3 +44,20 @@ In here, you'll find things like... Warn system, what to do as a Training host a
 
 There are no promotions for Training Hosts... atleast not yet.
 
+---
+
+# Ranked Minigames or Ranked Competitive
+
+### This will give you information onto what to do and how to hosts these. First of all, How will you be able to host it as a Training Host, you need to meet these requirements:
+
+### Minigames
+- Must have Supervisor
+- Prepare List of Minigames
+- When event ends, you must list top 3 players with score and rest of the players.
+- You must give First place **4 Points**, Second Place **3 Points**, Third Place **2 Points** and Rest of players can get **1 Point** for participating.
+
+## Competitive
+- Must have Supervisor
+- Minimum 4 Players (2 Players on each side)
+- Use **/cwencing on** for **(Old) Dragon Slayer**
+- And Must control your training.
