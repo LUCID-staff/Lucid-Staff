@@ -28,7 +28,7 @@ Do not share this document to non-staff, you’ll be warned for staff leakage or
 **Criteria**: When User behaves negative towards other users of the server.
 
 **Example**: 
-- "I hate you dude", "you're so weird", "shut the hell up"
+- "Kill yourself dude", "you're so fucking weird", "shut the fuck up"
 
 **Punishment**: 7 hours
 
