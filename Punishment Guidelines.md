@@ -211,7 +211,7 @@ Punishment: 7 hours
 
 ### Impersonation
 
-**Criteria**: This is only possible when User has exactly same user as the current Staff member, like PinkyVanes, nnnepiskproto and you get the drill.
+**Criteria**: This is only possible when User has exactly same user as the current Staff member, like PinkyVanes, daxy.x and you get the drill.
 
 **Punishment**: Warn first, If they don't change it in 1 day. Immediate ban
 
