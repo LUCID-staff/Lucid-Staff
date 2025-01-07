@@ -172,7 +172,7 @@ Punishment: 7 hours
 
 ### Pedophilia
 
-**Criteria**: I don't think I have to explain this....
+**Criteria**: When 18+ Person tries to talk with Minor (under 18), to send them photos of themselves  do esex and tries to date a minor too.
 
 **Punishment**: Immediate ban
 
