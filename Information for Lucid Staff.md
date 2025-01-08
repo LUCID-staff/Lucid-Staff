@@ -76,3 +76,9 @@ If staff member has been warned multiple times till they reached their limit, th
 ### Senior Moderator to Administrator
 
 **Criteria**: Work as a Senior Moderator in tickets, appeal ban requests, appeal mute requests, moderate the chat, Handle warns channel, Help moderators and below, Announce Important Information for other staff members in Staff Announcement channel to help them with their work for **2 months** without getting any warns possible.
+
+---
+
+### Administrator to Community Manager
+
+**Criteria**: This is possible to happen, but only if Owner decides on the Manager. You must have what it takes to become Community Manager of Lucid... yeah, Pinky will be Managing everything since he's the Owner.
