@@ -43,7 +43,7 @@ If staff member has been warned multiple times till they reached their limit, th
 - Trial-Moderator - **2/2**
 - Moderator - **3/3**
 - Senior-Moderator - **4/4**
-- Adminstrator - **6/6**
+- Adminstrator - **5/5**
 
 ---
 
