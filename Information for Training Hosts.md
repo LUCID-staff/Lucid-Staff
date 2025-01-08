@@ -55,6 +55,7 @@ There are no promotions for Training Hosts... atleast not yet.
 - Prepare List of Minigames
 - When event ends, you must list top 3 players with score and rest of the players.
 - You must give First place **4 Points**, Second Place **3 Points**, Third Place **2 Points** and Rest of players can get **1 Point** for participating.
+*Please ask Administrator or above to give out Points, just give them the list of players and how many points they gotten from it.*
 
 ## Competitive
 - Must have Supervisor
